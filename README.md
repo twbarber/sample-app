@@ -5,6 +5,6 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-Chapter 1 - Complete
-Chapter 2 - Complete
-Chapter 3 - Advanced Testing
+Chapter 1 - Complete  
+Chapter 2 - Complete  
+Chapter 3 - Advanced Testing  
